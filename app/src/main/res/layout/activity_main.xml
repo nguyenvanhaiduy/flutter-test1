@@ -54,15 +54,6 @@
                 android:text="Nguyễn Văn Hải Duy" />
         </LinearLayout>
 
-        <ImageButton
-            android:id="@+id/home_imgBtnThongBao"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:layout_marginLeft="70dp"
-            android:background="#FEF7FF"
-            app:srcCompat="@drawable/home_bell2" />
-
     </TableRow>
 
     <TableRow
